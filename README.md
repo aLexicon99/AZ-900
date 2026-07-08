@@ -32,3 +32,10 @@ ___
 ### [Azure Functions](https://learn.microsoft.com/sv-se/shows/azure/get-started-azure-functions)
 
 ### [Cloud Infrastructure (AZ-900T00-A)](https://learn.microsoft.com/sv-se/training/courses/az-900t00)
+
+
+
+### [Microsoft Azure Fundamentals AZ-900 Exam Prep](https://www.coursera.org/specializations/microsoft-azure-fundamentals-az900-exam-prep)
+
+
+### [Preparing for the AZ-900 Microsoft Azure Fundamentals Exam](https://www.coursera.org/learn/preparing-for-the-az-900-microsoft-azure-fundamentals-exam)
