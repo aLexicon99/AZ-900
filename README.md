@@ -12,24 +12,19 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 ___
 
 ###  Certification
-- <b>Microsoft Certified: Azure Fundamentals</b>
-https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification
-
-## John Savill's AZ-900 Training
-- <b>AZ-900 Azure Fundamentals Certification Course</b>
-https://www.youtube.com/watch?v=IUCEFBmYIog&list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3&index=1
+- [<b>Microsoft Certified: Azure Fundamentals</b>](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
 
 
-### Introduktion till molninfrastruktur (AZ-900T00-A)
-https://learn.microsoft.com/sv-se/training/courses/az-900t00
+### John Savill's AZ-900 Training
+- [<b>AZ-900 Azure Fundamentals Certification Course</b>](https://www.youtube.com/watch?v=IUCEFBmYIog&list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3&index=1)
 
 
 
 
 
 
-# Other Resourses
+# Other Resources
 
-### Azure Functions
+### [Azure Functions](https://learn.microsoft.com/sv-se/shows/azure/get-started-azure-functions)
 
-https://learn.microsoft.com/sv-se/shows/azure/get-started-azure-functions
+### [Cloud Infrastructure (AZ-900T00-A)](https://learn.microsoft.com/sv-se/training/courses/az-900t00)
