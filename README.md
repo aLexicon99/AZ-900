@@ -12,7 +12,10 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 ___
 
 ###  Certification
+- [<b>Preparing for the AZ-900</b>](https://www.coursera.org/learn/preparing-for-the-az-900-microsoft-azure-fundamentals-exam)
+
 - [<b>Microsoft Certified: Azure Fundamentals</b>](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
+
 
 
 ### John Savill's AZ-900 Training
@@ -24,6 +27,7 @@ ___
 
 
 # Other Resources
+
 
 ### [Azure Functions](https://learn.microsoft.com/sv-se/shows/azure/get-started-azure-functions)
 
